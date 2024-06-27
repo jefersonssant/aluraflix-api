@@ -31,6 +31,38 @@
       "titulo": "useMemo: aplicação React JS com mais performance | #AluraMaisv",
       "descricao": "Tutorial sobre o React Hook, useMemo, para a otimização de performance da sua aplicação. Aprenda o que é o useMemo, quando usar e identifique funções custosas.",
       "link": "https://youtu.be/CkGh3NM6NuQ"
-    }
+    },
+    {
+    "id": 5,
+    "area": "backend",
+    "imagem": "https://i.ytimg.com/vi/fiPfvylj6rk/mqdefault.jpg",
+    "titulo": "O que faz uma desenvolvedora Back-end? com Juliana Amoasei | #HipstersPontoTube",
+    "descricao": "Afinal, quem trabalha com Back-end faz o que? Com quais outras áreas da tecnologia essa pessoa acaba se relacionando no dia a dia de trabalho e quais os possíveis caminhos nessa carreira?",
+    "link": "https://youtu.be/fiPfvylj6rk"
+  },
+  {
+    "id": 6,
+    "area": "backend",
+    "imagem": "https://i.ytimg.com/vi/8VSTrZY8vwI/maxresdefault.jpg",
+    "titulo": "O que é Node.js? | #AluraMais",
+    "descricao": "A Juliana Amoasei, Instrutora na Escola de Programação aqui na Alura, apresenta a vocês o Node.js, o ambiente de execução do Javascript.",
+    "link": "https://youtu.be/8VSTrZY8vwI"
+  },
+  {
+    "id": 7,
+    "area": "backend",
+    "imagem": "https://i.ytimg.com/vi/LDU4BCSxPp4/hq720.jpg",
+    "titulo": "Diferença entre Back-End e Front-End com Mario Souto | #HipstersPontoTube",
+    "descricao": "Qual a diferença entre Back-end e Front-end? É possível se especializar nas duas áreas? Como é a rotina desses profissionais e com quais outras áreas da tecnologia acabam se relacionando? ",
+    "link": "https://youtu.be/xrRy3RI3HE4"
+  },
+  {
+    "id": 8,
+    "area": "backend",
+    "imagem": "https://i.ytimg.com/vi/PV9FoHvVE8k/mqdefault.jpg",
+    "titulo": "Kotlin, Micronaut e Back-end com Alberto Sousa | #HipstersPontoTube",
+    "descricao": "Vamos falar sobre Kotlin, a linguagem da programação que é amplamente usada por desenvolvedores Android.",
+    "link": "https://youtu.be/PV9FoHvVE8k"
+  },
   ]
 }
